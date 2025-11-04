@@ -84,20 +84,6 @@ The dataset consists of article headlines and engagement metrics provided by Blo
 You can explore the interactive dashboard here:  
 👉 **[View on Tableau Public](https://public.tableau.com/app/profile/markynsai.lamar/viz/BlockMe_Dashboard/BlogMeNewsDashboard)**  
 
-### **Dashboard Preview**
-![BlogMe Dashboard](SCREENSHOT.png)
-
-### **Dashboard Components**  
-- **Engagement Over Time:** Displays total engagement trends by publish date (comments, shares, reactions).  
-- **Top Negative Sentiment Titles:** Highlights most-engaged negative headlines by total interaction.  
-- **Top Positive Sentiment Titles:** Lists most-engaged positive stories and uplifting articles.  
-- **Articles Mentioning “Murder”:** Focused analysis of engagement patterns for violence-related news.  
-- **Sources by Total Engagement:** Ranks publishers (CNN, BBC, Reuters, etc.) by engagement volume.  
-- **Interactive Filters:**  
-  - Date range slider (Sept 1 – Nov 30 2019).  
-  - Publisher dropdown to isolate specific media sources.
-
----
 
 ## Results  
 
