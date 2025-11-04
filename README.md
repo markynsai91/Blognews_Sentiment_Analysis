@@ -82,7 +82,7 @@ The dataset consists of article headlines and engagement metrics provided by Blo
 ## Tableau Dashboard  
 
 You can explore the interactive dashboard here:  
-👉 **[View on Tableau Public](https://public.tableau.com/app/profile/markynsai.lamar/viz/BlogMeSentimentAnalysis/BlogMeDashboard)**  
+👉 **[View on Tableau Public](https://public.tableau.com/app/profile/markynsai.lamar/viz/BlockMe_Dashboard/BlogMeNewsDashboard)**  
 
 ### **Dashboard Preview**
 ![BlogMe Dashboard](SCREENSHOT.png)
